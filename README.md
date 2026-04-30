@@ -29,7 +29,7 @@ A clean and intuitive notes app with cloud sync, speech-to-text and real-time se
 
 ---
 
-### 📝 PayVault
+### 💳 PayVault
 A fintech mobile application built with Flutter and Firebase that simplifies everyday bill payments for Nigerians, featuring a secure wallet system, real-time balance tracking and seamless integration with the VTPass payment API.
 
 [View Repository](https://github.com/ajoseemmanuelone/payvault_bills_payment_app)
