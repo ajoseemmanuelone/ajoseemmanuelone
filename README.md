@@ -1,6 +1,6 @@
-# Hello, I'm Ajose Emmanuel 👋
+# Hello, I'm Ajose Emmanuel
 
-A Flutter developer based in Lagos, Nigeria 🇳🇬 with a background in Business Administration. I build mobile applications with a focus on fintech, productivity and marketplace solutions.
+A Flutter developer based in Lagos, Nigeria with a background in Business Administration. I build mobile applications with a focus on fintech, productivity and marketplace solutions.
 
 ---
 
@@ -47,7 +47,7 @@ A fintech mobile application built with Flutter and Firebase that simplifies eve
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-ajose-100672370)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AjoseEmmanuel7)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AjoseEmmanuel7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajoseemmanuelone@gmail.com)
 
 ---
