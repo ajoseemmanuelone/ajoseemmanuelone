@@ -1,6 +1,6 @@
 # Hello, I'm Ajose Emmanuel
 
-A Flutter developer based in Lagos, Nigeria with a background in Business Administration. I build premium mobile applications focused on productivity and marketplace solutions.
+A Flutter developer based in Lagos, Nigeria. I build premium mobile applications focused on productivity and marketplace solutions.
 
 ---
 
