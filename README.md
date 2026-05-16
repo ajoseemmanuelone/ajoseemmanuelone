@@ -29,6 +29,13 @@ A clean and intuitive notes app with cloud sync, speech-to-text and real-time se
 
 ---
 
+### 🍽️ Buka
+A restaurant ordering app built with Flutter and Firebase that allows customers to browse menus, place orders, and track order status in real time, while giving restaurant owners a powerful admin dashboard to manage everything.
+
+[View Repository](https://github.com/ajoseemmanuelone/Buka-Mobile-App)
+
+---
+
 ### 💳 PayVault
 A fintech mobile application built with Flutter and Firebase that simplifies everyday bill payments for Nigerians, featuring a secure wallet system, real-time balance tracking and seamless integration with the VTPass payment API.
 
