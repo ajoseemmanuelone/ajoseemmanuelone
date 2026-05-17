@@ -15,7 +15,7 @@ A Flutter developer based in Lagos, Nigeria. I build premium mobile applications
 
 ## 📱 Projects
 
-### 🔧 Artisan Finder
+### 🔧 Skilld
 A two-sided marketplace app connecting customers with skilled artisans in Lagos, Nigeria. Built with Flutter, Firebase and Riverpod.
 
 [View Repository](https://github.com/ajoseemmanuelone/Artisan-Finder)
