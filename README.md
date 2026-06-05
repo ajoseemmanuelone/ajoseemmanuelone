@@ -16,14 +16,21 @@ A Flutter developer based in Lagos, Nigeria. I build premium mobile applications
 ## 📱 Projects
 
 ### 🔧 Skilld
-A two-sided marketplace app connecting customers with skilled artisans in Lagos, Nigeria. Built with Flutter, Firebase and Riverpod.
+A two-sided marketplace app connecting customers with skilled artisans in Lagos, Nigeria.
 
 [View Repository](https://github.com/ajoseemmanuelone/Artisan-Finder)
 
 ---
 
+### 📄 Resume
+AI-powered CV and cover letter generator for Nigerian job seekers.
+
+[View Repository](https://github.com/ajoseemmanuelone/Resume)
+
+---
+
 ### 📝 Notes
-A clean and intuitive notes app with cloud sync, speech-to-text and real-time search. Built with Flutter and Firebase.
+A clean and intuitive notes app with cloud sync, speech-to-text and real-time search.
 
 [View Repository](https://github.com/ajoseemmanuelone/my-notes-app)
 
