@@ -52,9 +52,9 @@ A fintech mobile application built with Flutter and Firebase that simplifies eve
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajoseemmanuelone&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-ochre-eight-38.vercel.app/api?username=ajoseemmanuelone&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajoseemmanuelone&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-ochre-eight-38.vercel.app/api/top-langs/?username=ajoseemmanuelone&layout=compact&theme=radical)
 
 ---
 
